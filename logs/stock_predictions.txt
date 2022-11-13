@@ -1,0 +1,2 @@
+LSTM day ahead ADSK stock price prediction: [[216.77853]]
+GRU day ahead ADSK stock price prediction: [[220.02213]]
